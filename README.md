@@ -7,12 +7,12 @@ https://github.com/josedejesusAmaya/rd-project-api
 ## Installation:
 Clone the project via SSH:
 ```bash
-git clone git@github.com:pepeamaya/rd-project.git
+git clone git@github.com:josedejesusAmaya/rd-project.git
 ```
 
 Or HTTPS:
 ```bash
-git clone https://github.com/pepeamaya/rd-project.git
+git clone https://github.com/josedejesusAmaya/rd-project.git
 ```
 
 ```bash
